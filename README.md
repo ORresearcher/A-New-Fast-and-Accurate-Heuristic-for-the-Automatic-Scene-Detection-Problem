@@ -6,7 +6,7 @@ This is the repository for the paper "A New Fast and Accurate Heuristic for the 
 <h1>Dataset files</h1>
 According to the notation used in Section 4, the folder <i>I1</i> contains the data relevant to the instances solvable with Heuristic-Partitioner, Rotman-T and Rotman-H, while the folder <i>I2</i> contains the data of the instances only solvable with Heuristic-Partitioner (on our 24GB RAM hardware).<br>
 
-# Each instance *i* is associated with the two files *i.npy* and *i.txt*: the former contains the numpy encoding of the distance matrix associated to the video *i*, while the latter contains the ground-truth partition of *i*. Specifically, *i.txt* reports the last shot of each scene in the ground-truth partition in increasing order.
+<!-- Each instance *i* is associated with the two files *i.npy* and *i.txt*: the former contains the numpy encoding of the distance matrix associated to the video *i*, while the latter contains the ground-truth partition of *i*. Specifically, *i.txt* reports the last shot of each scene in the ground-truth partition in increasing order. -->
 
 
 <h1>Implementation files</h1>
