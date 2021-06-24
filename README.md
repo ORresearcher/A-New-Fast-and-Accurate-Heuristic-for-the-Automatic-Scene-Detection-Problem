@@ -16,4 +16,4 @@ The folder *src* contains the python sources needed to run the algorithms. For i
 
 python asdp_solver.py Big_Buck_Bunny.npy 20 Heuristic-Partitioner
 
-In order to solve the same instance with Rotman-T, Rotman-H or Additive-Heuristic-Partitioner, please replace *Heuristic-Partitioner* with *Rotman-T*, *Rotman-H*, or *Additive-Heuristic-Partitioner* respectively.
+In order to solve the same instance with Rotman-T, Rotman-H or Additive-Heuristic-Partitioner, please replace *Heuristic-Partitioner* with *Rotman-T*, *Rotman-H*, or *Additive-Heuristic-Partitioner*, respectively.
